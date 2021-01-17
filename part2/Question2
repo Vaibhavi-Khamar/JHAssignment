@@ -1,0 +1,5 @@
+Write a small Node.js or JavaScript application which   
+
+a.	Calls into a public API and gets the data into JSON format. 
+b.	Saves that data into a small DB. 
+c.	The DB of choice and the public API to use are up to you. 
